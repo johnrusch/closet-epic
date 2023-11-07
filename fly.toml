@@ -1,4 +1,4 @@
-app = "--typescript-2388"
+app = "closet"
 primary_region = "sea"
 kill_signal = "SIGINT"
 kill_timeout = 5
